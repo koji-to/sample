@@ -19,3 +19,5 @@ Fukuda kenshin
 
 pull request
 
+平岡
+
