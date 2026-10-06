@@ -11,6 +11,7 @@ pull req Test
 
 Fukuda kenshin
 別府
+椋
 
 pull request
 
