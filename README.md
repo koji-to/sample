@@ -19,3 +19,5 @@ Fukuda kenshin
 
 pull request
 
+### pull request
+26X5015 田中愛大
